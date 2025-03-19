@@ -19,7 +19,7 @@ This project is part of the **AI-MedX Rhapsody Healthcare Challenge**. It aims t
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [Insert GitHub Repo Link]
+   git clone https://github.com/ShaikJasmin11/Heart-disease-detect.git
    cd heart-disease-detection
    ```
 2. Install dependencies:
