@@ -4,7 +4,7 @@
 This project is part of the **AI-MedX Rhapsody Healthcare Challenge**. It aims to detect heart disease using deep learning with PyTorch. The model is trained on the **UCI Heart Disease dataset** and achieves an accuracy of **85.85%**.
 
 ## Dataset
-- **Source**: [Insert Dataset Link]
+- **Source**: https://drive.google.com/file/d/1e9X88oBcGkA2ff07XfNxrMl6ii3rORWZ/view?usp=drive_link
 - **Features**: Age, Blood Pressure, Cholesterol, Heart Rate, etc.
 - **Target Labels**: 0 (No Disease) / 1 (Heart Disease)
 
@@ -45,7 +45,7 @@ This project is part of the **AI-MedX Rhapsody Healthcare Challenge**. It aims t
 
 ## Model File
 - Trained Model: `heart_disease_model.pth`
-- Dataset: [Insert Dataset Link]
+- Dataset: https://drive.google.com/file/d/1e9X88oBcGkA2ff07XfNxrMl6ii3rORWZ/view?usp=drive_link
 
 ## Future Improvements
 - Hyperparameter tuning for better accuracy
